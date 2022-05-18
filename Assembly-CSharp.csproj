@@ -71,7 +71,7 @@
     <Compile Include="Assets\Blockit\Scripts\Game\Switches\SwitchShow.cs" />
     <Compile Include="Assets\Blockit\Scripts\Game\Timer.cs" />
     <Compile Include="Assets\Blockit\Scripts\Game\Trap.cs" />
-    <Compile Include="Assets\Blockit\Scripts\MainMenu\MainMenu.cs" />
+    <Compile Include="Assets\Blockit\Scripts\Menu\MainMenu.cs" />
     <Compile Include="Assets\Blockit\Scripts\Persistent\GameController.cs" />
     <Compile Include="Assets\Blockit\Scripts\Persistent\PlayerDeath.cs" />
     <Compile Include="Assets\NewBehaviourScript.cs" />
