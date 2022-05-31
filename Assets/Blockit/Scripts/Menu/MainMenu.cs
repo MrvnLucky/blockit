@@ -28,7 +28,7 @@ namespace Blockit
 
         private void Update()
         {
-            if (Input.GetKeyDown(KeyCode.M))
+            if (Input.GetKeyDown(KeyCode.Escape))
                 SwitchPanels(menuPanel.activeSelf ? false : true, false);
         }
 

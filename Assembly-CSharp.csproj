@@ -61,6 +61,7 @@
     <Compile Include="Assets\Blockit\Scripts\Cameras\CameraZoom.cs" />
     <Compile Include="Assets\Blockit\Scripts\Game\Block Roller\CameraAdaptationRoller.cs" />
     <Compile Include="Assets\Blockit\Scripts\Game\Block Roller\UniversalBlockRoller.cs" />
+    <Compile Include="Assets\Blockit\Scripts\Game\EndLevel.cs" />
     <Compile Include="Assets\Blockit\Scripts\Game\HiddenPlatforms\HiddenPlatform.cs" />
     <Compile Include="Assets\Blockit\Scripts\Game\HiddenPlatforms\RotatingPlatform.cs" />
     <Compile Include="Assets\Blockit\Scripts\Game\HiddenPlatforms\SlidingPlatform.cs" />

@@ -454,7 +454,7 @@ PrefabInstance:
     - target: {fileID: 6835355922056889626, guid: 973751c9e63024743a039a409f1db94d,
         type: 3}
       propertyPath: m_Text
-      value: "Control Info:\nW - Up\nA - Left \nS - Down\nD - Right\nM - Pause\nM.RightClick
+      value: "Control Info:\nW - Up\nA - Left \nS - Down\nD - Right\nEsc - Pause\nM.RightClick
         - Rotate Camera\nM.Wheel - Camera Zoom"
       objectReference: {fileID: 0}
     - target: {fileID: 6835355922056889626, guid: 973751c9e63024743a039a409f1db94d,
